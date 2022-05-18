@@ -677,8 +677,22 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
+
+/*Rajout*/
+
+.text-important {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-quote {
+    font-size: 18px;
+    font-style: italic;
+}
+
+/*Fin de l'ajout*/
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -753,7 +767,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(131, 117, 77, 0.8);
     padding: 40px 40px 40px 40px;
 }
 
@@ -775,7 +789,14 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffa579!important;
+}
+
+.tc-black {
+    text-align: center;
+}
+.page-contact {
+    text-align: center;
 }
 
 .btn-atomic-tangerine {
