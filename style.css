@@ -654,6 +654,10 @@ a {
     color: #575757!important;
 }
 
+.lien-footer {
+    color: #FFFFFF!important;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -751,6 +755,13 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    background-color:rgba(0,0,0,0.6);
+    border-radius:10px;
+}
+
+.background-black {
+    background-color:rgba(0,0,0,0.6);
+    border-radius:10px;
 }
 
 .portfolio-thumb {
@@ -790,6 +801,8 @@ h4 {
 
 .tc-white {
     color: #ffa579!important;
+    background-color:rgba(0,0,0,0.8);
+    border-radius: 10px;
 }
 
 .page-contact {
